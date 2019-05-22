@@ -12,7 +12,7 @@
 
 #### Overview Deign for the Publish-Subscribe Model
 
-<img src="https://ws1.sinaimg.cn/large/74c2bf2dgy1g39ykrwvvpj21880xewmf.jpg"/>
+<img src="https://ws1.sinaimg.cn/large/74c2bf2dgy1g39ykrwvvpj21880xewmf.jpg" width="600px"/>
 
 I have added three interfaces to the `UserUtility`. They are `createSubscription`, `getMessagesFromSubscribers`, `publishMessages`, which provide pub-sub service to the client via RMI invocation.
 
