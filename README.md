@@ -1,4 +1,4 @@
-# Remote Method Invocation Implementation
+# RMI Implementation
 
 ## FEATURE
 
