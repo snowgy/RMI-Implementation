@@ -1,5 +1,7 @@
 # RMI Implementation
 
+![https://snowgy.github.io/](https://img.shields.io/badge/Author-yue%20gong-blue.svg)  ![java version](https://img.shields.io/badge/java-1.8-green.svg)
+
 ## FEATURE
 
 * Basic user login and register
