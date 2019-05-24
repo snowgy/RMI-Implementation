@@ -1,6 +1,6 @@
 # RMI Implementation
 
-![https://github.com/snowgy](https://img.shields.io/badge/Author-yue%20gong-blue.svg)  ![java version](https://img.shields.io/badge/java-1.8-green.svg)
+[![author](https://img.shields.io/badge/Author-yue%20gong-blue.svg)](https://github.com/snowgy)  ![java version](https://img.shields.io/badge/java-1.8-green.svg)
 
 ## FEATURE
 
